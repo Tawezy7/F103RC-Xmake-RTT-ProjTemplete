@@ -1,0 +1,22 @@
+{
+  "configurations": [
+      {
+          "name": "ARM-GCC",
+          "includePath": [
+              "${workspaceFolder}/**"
+          ],
+          "defines": [
+              "_DEBUG",
+              "UNICODE",
+              "_UNICODE"
+          ],
+          "windowsSdkVersion": "10.0.22621.0",
+          "compilerPath": "D:\\Env\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gcc.exe",
+          "cStandard": "c17",
+          "cppStandard": "c++17",
+          "intelliSenseMode": "linux-gcc-arm",
+          "compileCommands": ".vscode/compile_commands.json"
+      }
+  ],
+  "version": 4
+}

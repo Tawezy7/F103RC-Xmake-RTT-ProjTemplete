@@ -1,0 +1,431 @@
+[
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\libcpu\\arm\\cortex-m3\\cpuport.c.obj", "rt-thread\\libcpu\\arm\\cortex-m3\\cpuport.c"],
+  "file": "rt-thread\\libcpu\\arm\\cortex-m3\\cpuport.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\clock.c.obj", "rt-thread\\src\\clock.c"],
+  "file": "rt-thread\\src\\clock.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\components.c.obj", "rt-thread\\src\\components.c"],
+  "file": "rt-thread\\src\\components.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\cpu.c.obj", "rt-thread\\src\\cpu.c"],
+  "file": "rt-thread\\src\\cpu.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\idle.c.obj", "rt-thread\\src\\idle.c"],
+  "file": "rt-thread\\src\\idle.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\ipc.c.obj", "rt-thread\\src\\ipc.c"],
+  "file": "rt-thread\\src\\ipc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\irq.c.obj", "rt-thread\\src\\irq.c"],
+  "file": "rt-thread\\src\\irq.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\kservice.c.obj", "rt-thread\\src\\kservice.c"],
+  "file": "rt-thread\\src\\kservice.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\mem.c.obj", "rt-thread\\src\\mem.c"],
+  "file": "rt-thread\\src\\mem.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\memheap.c.obj", "rt-thread\\src\\memheap.c"],
+  "file": "rt-thread\\src\\memheap.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\mempool.c.obj", "rt-thread\\src\\mempool.c"],
+  "file": "rt-thread\\src\\mempool.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\object.c.obj", "rt-thread\\src\\object.c"],
+  "file": "rt-thread\\src\\object.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\scheduler.c.obj", "rt-thread\\src\\scheduler.c"],
+  "file": "rt-thread\\src\\scheduler.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\slab.c.obj", "rt-thread\\src\\slab.c"],
+  "file": "rt-thread\\src\\slab.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\thread.c.obj", "rt-thread\\src\\thread.c"],
+  "file": "rt-thread\\src\\thread.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\src\\timer.c.obj", "rt-thread\\src\\timer.c"],
+  "file": "rt-thread\\src\\timer.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\port\\board.c.obj", "rt-thread\\port\\board.c"],
+  "file": "rt-thread\\port\\board.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\components\\finsh\\cmd.c.obj", "rt-thread\\components\\finsh\\cmd.c"],
+  "file": "rt-thread\\components\\finsh\\cmd.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\components\\finsh\\finsh_port.c.obj", "rt-thread\\components\\finsh\\finsh_port.c"],
+  "file": "rt-thread\\components\\finsh\\finsh_port.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\components\\finsh\\msh.c.obj", "rt-thread\\components\\finsh\\msh.c"],
+  "file": "rt-thread\\components\\finsh\\msh.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\components\\finsh\\shell.c.obj", "rt-thread\\components\\finsh\\shell.c"],
+  "file": "rt-thread\\components\\finsh\\shell.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Application\\start.c.obj", "Application\\start.c"],
+  "file": "Application\\start.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Core\\Src\\main.c.obj", "Core\\Src\\main.c"],
+  "file": "Core\\Src\\main.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Core\\Src\\stm32f1xx_hal_msp.c.obj", "Core\\Src\\stm32f1xx_hal_msp.c"],
+  "file": "Core\\Src\\stm32f1xx_hal_msp.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Core\\Src\\stm32f1xx_it.c.obj", "Core\\Src\\stm32f1xx_it.c"],
+  "file": "Core\\Src\\stm32f1xx_it.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Core\\Src\\system_stm32f1xx.c.obj", "Core\\Src\\system_stm32f1xx.c"],
+  "file": "Core\\Src\\system_stm32f1xx.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_adc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_adc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_adc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_adc_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_adc_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_adc_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_can.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_can.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_can.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cec.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cec.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cec.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_crc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_crc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_crc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dac.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dac.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dac.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dac_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dac_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dac_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_eth.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_eth.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_eth.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_hcd.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_hcd.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_hcd.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2s.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2s.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2s.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_irda.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_irda.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_irda.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_iwdg.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_iwdg.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_iwdg.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_mmc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_mmc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_mmc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_nand.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_nand.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_nand.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_nor.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_nor.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_nor.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pccard.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pccard.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pccard.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pcd.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pcd.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pcd.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pcd_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pcd_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pcd_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rtc_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_sd.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_sd.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_sd.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_smartcard.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_smartcard.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_smartcard.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_spi.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_spi.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_spi.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_sram.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_sram.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_sram.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_tim.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_tim.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_tim.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_tim_ex.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_tim_ex.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_tim_ex.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_uart.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_uart.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_uart.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_usart.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_usart.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_usart.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_wwdg.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_wwdg.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_wwdg.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_adc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_adc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_adc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_crc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_crc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_crc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_dac.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_dac.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_dac.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_dma.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_dma.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_dma.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_exti.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_exti.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_exti.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_fsmc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_fsmc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_fsmc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_gpio.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_gpio.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_gpio.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_i2c.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_i2c.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_i2c.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_pwr.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_pwr.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_pwr.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_rcc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_rcc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_rcc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_rtc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_rtc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_rtc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_sdmmc.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_sdmmc.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_sdmmc.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_spi.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_spi.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_spi.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_tim.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_tim.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_tim.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_usart.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_usart.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_usart.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_usb.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_usb.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_usb.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Og", "-mcpu=cortex-m3", "-mthumb", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_utils.c.obj", "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_utils.c"],
+  "file": "Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_ll_utils.c"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Xassembler", "-mimplicit-it=thumb", "-Og", "-mcpu=cortex-m3", "-mthumb", "-x", "assembler-with-cpp", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\rt-thread\\libcpu\\arm\\cortex-m3\\context_gcc.S.obj", "rt-thread\\libcpu\\arm\\cortex-m3\\context_gcc.S"],
+  "file": "rt-thread\\libcpu\\arm\\cortex-m3\\context_gcc.S"
+},
+{
+  "directory": "d:\\User\\Tawezy7\\Documents\\Project\\F103RC-Xmake-RTT-ProjTemplete",
+  "arguments": ["gcc.exe", "-c", "-Irt-thread", "-Irt-thread\\include", "-Irt-thread\\port", "-Irt-thread\\components\\finsh", "-IApplication\\include", "-ICore\\Inc", "-IDrivers\\CMSIS\\Include", "-IDrivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc", "-IDrivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy", "-DUSE_HAL_DRIVER", "-DSTM32F103xE", "-Xassembler", "-mimplicit-it=thumb", "-Og", "-mcpu=cortex-m3", "-mthumb", "-x", "assembler-with-cpp", "-Wall", "-fdata-sections", "-ffunction-sections", "-g", "-gdwarf-2", "-o", "build\\.objs\\main\\windows\\x64\\startup_stm32f103xe.s.obj", "startup_stm32f103xe.s"],
+  "file": "startup_stm32f103xe.s"
+}]
