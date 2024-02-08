@@ -24,7 +24,7 @@ XMake 轻量，语法简单，构建快速。配合VScode XMake插件能够快�
   bl  entry            /* 修改此处，由 main 改为 entry */
 ```
 - 移植rt-thread finsh组件,根据官网文档移植
-- 修改链接脚本让finsh正常使用(在.text块中添加如下代码)
+- 修改链接脚本使finsh能够正常使用(在.text块中添加如下代码)
 ```
 /* section information for finsh shell */
     . = ALIGN(4);
